@@ -1,0 +1,23 @@
+name: gavinmart
+favicon: null
+layout_spectrum: 0.23678120481781662
+typography_spectrum: 0.8329515964724123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6130622201599181
+  lightness: 0.8988095023669302
+  saturation: 0.21558304806239903
+  rhythmicContrast: 0.8466336759738624
+purpose: []
